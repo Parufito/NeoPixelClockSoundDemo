@@ -21,3 +21,14 @@ This project mix ideas from:
 
 - Rgb led from 60 pixels
 - dipswitch (3 positions)
+
+## Videos
+
+### Clock 
+![Clock](https://pbs.twimg.com/media/Dr1A8KqWsAAFgU3.jpg)
+
+### Sound Demo 
+https://twitter.com/parufito/status/1043909507997478912
+
+### Rainbow
+https://www.instagram.com/p/BoFdLVcH2R3/
