@@ -9,9 +9,9 @@ This project mix ideas from:
 - Luis Llamas blog - https://www.luisllamas.es/medir-sonido-con-arduino-y-microfono-amplificado-max9812/
 
 ## Libraries used
-<Wire.h>
-<RTClib.h>
-<Adafruit_NeoPixel.h>
+- <Wire.h>
+- <RTClib.h>
+- <Adafruit_NeoPixel.h>
 
 ## Components
 
