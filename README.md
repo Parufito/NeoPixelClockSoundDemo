@@ -33,7 +33,7 @@ This project mix ideas from:
 - Using a single WS2813 RGB LED to simulate 60 led RING
 - Using 8 positions dipswitch 
 
-## Videos
+## Final result
 
 ### Clock 
 ![Clock](https://pbs.twimg.com/media/Dr1A8KqWsAAFgU3.jpg)
